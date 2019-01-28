@@ -13,6 +13,7 @@ public class DateUtil {
 	public static final String[] PATTER_LIST = new String[]{
 		"yyyy-MM-dd",
 		"yyyy-MM-dd HH:mm:ss",
+		"yyyy-MM-dd HH:mm",
 		"yyyyMMdd",
 		"yyyyMMddHHmmss"
 	};
